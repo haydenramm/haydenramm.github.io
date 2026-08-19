@@ -4,7 +4,7 @@ Before coming to Edinburgh, I studied physics at [Cambridge](https://en.wikipedi
 
 I also maintain a blog [here](https://haydenramm.bearblog.dev), where I write about machine learning, literature, and the quirkier aspects of my life. There used to be other types of aspects to my life. They vanished once I started writing code and doing physics.
 
-<a href="/pdfs/CV_pdf.pdf" type="application/pdf">CV</a>
+<a href="/CV_pdf.pdf" type="application/pdf">CV</a>
 
 ## FAQs
 **Are you American?**
