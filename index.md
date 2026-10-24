@@ -1,4 +1,4 @@
-I'm a PhD student in the [Bayesian and Neural Systems Group](https://www.bayeswatch.com) ("BayesWatch") at the University of Edinburgh, where I'm supervised by Amos Storkey and Henry Gouk. I'm interested lots of things — currently, that includes **continual learning**, **variational inference**, **PINNs**, and **model compression**. 
+I'm a PhD student in the [Bayesian and Neural Systems Group](https://www.bayeswatch.com) ("BayesWatch") at the University of Edinburgh, where I'm supervised by Amos Storkey. I'm interested lots of things — currently, that includes **continual learning**, **variational inference**, and **PINNs**. 
 
 Before coming to Edinburgh, I studied physics at [Cambridge](https://en.wikipedia.org/wiki/Trinity_College,_Cambridge) and [Oxford](https://en.wikipedia.org/wiki/Linacre_College,_Oxford). At the latter, I spent some time working at CERN, which is just outside of Geneva in France/Switzerland.
 
